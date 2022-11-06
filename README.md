@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Josh Nichols from Florida, I'm a current programming student and work in IT with exposure to Java, C++, Python, Visual Basic, HTML, and CSS
+
 <!--
 **jcnichols22/jcnichols22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
