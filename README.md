@@ -6,8 +6,10 @@ I'm Josh Nichols from Florida, I'm a current programming student and work in IT 
 
 Skills: PYTHON / JAVA / C++ / HTML
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my degree 
+- 🌱 I’m currently learning more Java, C++, Swift  
+- 📫 How to reach me: jcnichols22@gmail.com 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshnich//)  
 
