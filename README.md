@@ -6,12 +6,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a recent graduate with an Associate’s Degree in Computer Science (focus: Programming) from Guilford Tech. I’m passionate about building robust software and managing home infrastructure, always eager to learn and tackle new technical challenges. My journey has given me a solid foundation in:
+Hi there! 👋 My passion lies Internet Privacy, Security, and managing infrastructure, and I’m always eager to learn and tackle new technical challenges.
+
+I bring a diverse background, with hands-on experience in retail and healthcare, and over three years in the IT field. My journey has given me a solid foundation in programming, troubleshooting, and systems management.
+
+Currently, I’m expanding my skills in networking and cybersecurity through my homelab projects. I love experimenting with new technologies, automating tasks, and deepening my understanding of how things work under the hood.
 
 **Languages & Tools:**  
-HTML | CSS | JavaScript | Java | PHP | MySQL | Python | C++ | Docker | Proxmox | Tailscale | Linux
+Docker | Proxmox | Tailscale | Linux | Windows | HTML | CSS | JavaScript | Java | PHP | MySQL | Python | C++
 
-- 🔭 **Currently:** Expanding my web development skills and automating my homelab.
+- 🔭 **Currently:** Expanding my security and network skills automating my homelab.
 - 🌱 **Learning:** Ansible for infrastructure automation and advanced network management.
 - 🤝 **Collaboration:** I thrive in team environments and enjoy communicating complex ideas to all audiences.
 - 📫 **Contact:** jcnichols22@gmail.com
@@ -23,48 +27,6 @@ HTML | CSS | JavaScript | Java | PHP | MySQL | Python | C++ | Docker | Proxmox |
 [Explore my Homelab repo »](https://github.com/jcnichols22/Homelab)
 
 **Purpose:** Network management, self-hosted services, media streaming, and continuous learning.
-
-### 🔧 Core Hardware
-
-- **Proxmox Host:** HP ProDesk G3 Mini (i5-6500T, 32GB RAM, 512GB SSD)  
-  _Hosts critical network services in LXC containers_
-- **Media Server:** HP ProDesk G3 SFF (i5-6500, 16GB RAM, 1TB Storage)  
-  _Runs Docker containers for media management_
-
-### 🌐 Network Overview
-
-- **Router:** TP-Link ER-605 (Omada managed)
-- **Access Points:** 2× Eero Pro 6 (Bridge mode)
-- **ISP:** AT&T (Bridge mode)
-- **VPN:** Tailscale mesh for secure, remote access
-
-**Services Hosted:**
-| Service | Functionality |
-|-------------------|----------------------------------|
-| AdGuard Home | DNS/DHCP, ad blocking |
-| Home Assistant | Smart home automation |
-| Homarr | Service dashboard |
-| Omada Controller | Router/AP management |
-| Pi-hole | Secondary DNS/ad blocking |
-| MySpeed | Network speed tests |
-| RustDesk Server | Remote access hub |
-| Uptime Kuma | Service monitoring |
-| Nextcloud | File sharing/collaboration |
-| NetBox | Network documentation |
-| phpIPAM | IP address management |
-
-**Media Stack (Docker):**  
-Radarr, Sonarr, Lidarr, Readarr, Prowlarr, Jellyfin, Plex
-
-**Backups & Maintenance:**
-
-- Daily Proxmox snapshots, weekly VM backups to NAS
-- Redundant DNS (AdGuard + Pi-hole), Eero mesh APs
-- Uptime Kuma monitors all services every 5 minutes
-
-**Future Plans:**
-
-- VLAN segmentation, add redundant Proxmox node, Unraid for storage, Ubiquiti upgrade, offsite backups, more automation
 
 ---
 
@@ -81,7 +43,7 @@ Radarr, Sonarr, Lidarr, Readarr, Prowlarr, Jellyfin, Plex
 ## 📫 Let's Connect!
 
 - Email: jcnichols22@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/josh-nichols22/) _(if available)_
+- [LinkedIn](https://www.linkedin.com/in/joshnich/)
 - [Developer Portfolio](https://jcnichols22.github.io/developer-portfolio/)
 
 ---
