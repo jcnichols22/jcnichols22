@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Josh Nichols
 
-## Aspiring Software Engineer | Homelab Enthusiast | Lifelong Learner
+## IT Professional | Homelab Builder | Privacy & Security Advocate
+
+Passionate about internet privacy, security, and hands-on infrastructure management. Experienced in IT, retail, and healthcare, with a strong drive for continuous learning and technical growth.
 
 ---
 
@@ -24,9 +26,10 @@ Docker | Proxmox | Tailscale | Linux | Windows | HTML | CSS | JavaScript | Java 
 
 ## 🏡 Homelab: My Self-Hosted Playground
 
-[Explore my Homelab repo »](https://github.com/jcnichols22/Homelab)
+[Explore my Homelab repo »](https://github.com/jcnichols22/Homelab) |
+[Explore my Ansible repo »](https://github.com/jcnichols22/Ansible)
 
-**Purpose:** Network management, self-hosted services, media streaming, and continuous learning.
+**Purpose:** Network management, Automation, self-hosted services, media streaming, and continuous learning.
 
 ---
 
