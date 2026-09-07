@@ -12,10 +12,10 @@ This profile mixes both sides of that—the professional side and the “why wou
 
 ## What I’m up to
 
-- **Homelab** — A two-node Proxmox cluster (Diagon Alley) running containers for media, backups, DNS, ad-blocking, documentation, remote access, and more. All wired through Tailscale.
+- **Homelab** — A Proxmox cluster (currently consolidating onto a single beefier node) running a media stack with Jellyfin + the *arr suite, Frigate NVR with object detection, Paperless-ngx for documents, Home Assistant for the smart home, Nextcloud, AdGuard DNS, and backups. All wired together through Tailscale.
 - **Automation** — Ansible playbooks for provisioning, patching, and maintaining services across the lab.
 - **Security & privacy** — Wazuh, AdGuard, omada-controlled network segmentation, firewall rules, and a general obsession with knowing what my systems are doing.
-- **Teaching & sharing** — I want to help people take control of their own data without needing a CS degree. If that sounds like your kind of content, stick around.
+- **Teaching & sharing** — Documenting as I go at [thelabrack.com](https://thelabrack.com) — links to my YouTube, Twitch, and the rest of where I publish.
 
 ---
 
@@ -23,11 +23,11 @@ This profile mixes both sides of that—the professional side and the “why wou
 
 Core stuff I use regularly:
 
-`Proxmox` `Docker` `Tailscale` `Linux` `Windows` `Ansible` `NetBox` `AdGuard` `Omada` `Wazuh` `Nextcloud` `Jellyfin`
+`Proxmox` `Docker` `Tailscale` `Linux` `Windows` `Ansible` `NetBox` `AdGuard` `Omada` `Wazuh` `Nextcloud` `Jellyfin` `Frigate` `Home Assistant` `Paperless-ngx`
 
 Languages and tools I reach for when needed:
 
-`Python` `Java` `C++` `PHP` `MySQL` `HTML / CSS / JavaScript` `Bash` `Git`
+`Python` `TypeScript` `Nix` `HTML / CSS / JavaScript` `Bash` `Git`
 
 ---
 
@@ -39,6 +39,9 @@ Languages and tools I reach for when needed:
 | [Ansible](https://github.com/jcnichols22/Ansible) | Playbooks for provisioning and managing the lab |
 | [The Armory](https://github.com/jcnichols22/thearmory) | A self-hosted hardware inventory tracker for homelabs—QR-code labels, free-text add, no setup tax |
 | [Wayfinder](https://github.com/jcnichols22/Wayfinder) | A self-hosted, offline-first PWA for field IT support—visit/ticket/mileage tracking with Workday & ServiceNow CSV exports |
+| [The Lab Rack](https://github.com/jcnichols22/homepage) | Source for [thelabrack.com](https://thelabrack.com)—my link hub and homelab publishing home base |
+| [dotfiles](https://github.com/jcnichols22/dotfiles) | My Linux/macOS shell, editor, and tooling config |
+| [nixos-config](https://github.com/jcnichols22/nixos-config) | NixOS system configuration for my daily-driver Linux box |
 | [Developer Portfolio](https://jcnichols22.github.io/developer-portfolio/) | My resume, experience, and certs |
 
 I add to these when I change something that’s worth documenting.
@@ -47,8 +50,9 @@ I add to these when I change something that’s worth documenting.
 
 ## Connect
 
+- Website: [thelabrack.com](https://thelabrack.com)
 - Email: jcnichols22@gmail.com
 - LinkedIn: [joshnich](https://www.linkedin.com/in/joshnich/)
-- Portfolio: [jcnichols22.github.io/developer-portfolio/](https://jcnichols22.github.io/developer-portfolio/)
+- Portfolio: [Developer Portfolio](https://jcnichols22.github.io/developer-portfolio/)
 
 _The best systems are the ones you own, maintain, and actually understand._
