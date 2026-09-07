@@ -37,6 +37,8 @@ Languages and tools I reach for when needed:
 |------|-----------|
 | [Homelab](https://github.com/jcnichols22/Homelab) | My homelab infrastructure—servers, networking, Docker stacks, VLANs |
 | [Ansible](https://github.com/jcnichols22/Ansible) | Playbooks for provisioning and managing the lab |
+| [The Armory](https://github.com/jcnichols22/thearmory) | A self-hosted hardware inventory tracker for homelabs—QR-code labels, free-text add, no setup tax |
+| [Wayfinder](https://github.com/jcnichols22/Wayfinder) | A self-hosted, offline-first PWA for field IT support—visit/ticket/mileage tracking with Workday & ServiceNow CSV exports |
 | [Developer Portfolio](https://jcnichols22.github.io/developer-portfolio/) | My resume, experience, and certs |
 
 I add to these when I change something that’s worth documenting.
