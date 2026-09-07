@@ -39,7 +39,7 @@ Languages and tools I reach for when needed:
 | [Ansible](https://github.com/jcnichols22/Ansible) | Playbooks for provisioning and managing the lab |
 | [The Armory](https://github.com/jcnichols22/thearmory) | A self-hosted hardware inventory tracker for homelabs—QR-code labels, free-text add, no setup tax |
 | [Wayfinder](https://github.com/jcnichols22/Wayfinder) | A self-hosted, offline-first PWA for field IT support—visit/ticket/mileage tracking with Workday & ServiceNow CSV exports |
-| [The Lab Rack](https://github.com/jcnichols22/homepage) | Source for [thelabrack.com](https://thelabrack.com)—my link hub and homelab publishing home base |
+| [The Lab Rack](https://github.com/jcnichols22/TLR-Linkhub) | Source for [thelabrack.com](https://thelabrack.com)—my link hub styled like a 1U rack faceplate |
 | [dotfiles](https://github.com/jcnichols22/dotfiles) | My Linux/macOS shell, editor, and tooling config |
 | [nixos-config](https://github.com/jcnichols22/nixos-config) | NixOS system configuration for my daily-driver Linux box |
 | [Developer Portfolio](https://jcnichols22.github.io/developer-portfolio/) | My resume, experience, and certs |
